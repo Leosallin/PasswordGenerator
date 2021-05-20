@@ -5,8 +5,8 @@ Password Generator in Python
 
 This is an app that generate random passwords for multiple uses.
 
-Coded in python
+Coded in python.
 
-Exed with pyinstaller
+Exed with pyinstaller.
 
 ===============================================
